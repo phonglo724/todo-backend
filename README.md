@@ -12,7 +12,7 @@
 [x] 4. Go to your Gemfile and uncomment rack-cors
 [x] 5. Then go to your cors.rb file and uncomment lines 8 - 16. In origins, delete the example.com and replace it with *
 [x]       a. bundle install
-[] 6. Run your server ( rails s )
-[] 4. Create a todos page on the frontend
-[] 5. Fetch the todos/Make the todos show up
+[x] 6. Run your server ( rails s )
+[x] 7. Create a todos page on the frontend ( Go to todo-series for the frontend)
+[x] 8. Fetch the todos/Make the todos show up ( Go to todo-series for the frontend)
 
